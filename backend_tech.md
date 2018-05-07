@@ -1,5 +1,5 @@
 
-# 后端架构师技术图谱》
+# 后端架构师技术图谱
 
 fork自[repo](https://github.com/xingshaocheng/architect-awesome)
 
