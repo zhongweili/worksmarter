@@ -1,1 +1,1 @@
- 来自中原古都的懵懂少年，曾经迷失在数学的汪洋大海中，目前徜徉于程序世界的0/1规则里，渴望踏进美妙文字的歧路花园。
+关于[我](https://github.com/zhongweili/zhongwei_user_guide)
