@@ -19,6 +19,7 @@
 
 ### 3. 变得专业
 * 职场基本素养（[HbWorkStyleBasic.md](CONTENT/HbWorkStyleBasic.md)）
+* 成为一个职业人（[BeProfessional.md](CONTENT/BeProfessional.md)）
 * 领域知识（[HbDomainKnow.md](CONTENT/HbDomainKnow.md)）
 * 如何提问（[HbHowToAsk.md](CONTENT/HbHowToAsk.md)）
 
