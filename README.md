@@ -24,9 +24,10 @@
 * 如何提问（[HbHowToAsk.md](CONTENT/HbHowToAsk.md)）
 
 ### 4. 职业规划
-* 进阶心法（）
+* 自我规划（[IdxPersonalPlanning](CONTENT/IdxPersonalPlanning.md)）
 * 晋升通道（）
 * 职业生涯（）
 
 ***
-20180705 zhongwei add content
+* 180705 zhongwei add content
+* 181029 add personal planning
